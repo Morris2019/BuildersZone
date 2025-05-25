@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_PostProcessingItem Include="BuildersZoneApp.app/Contents/MacOS/BuildersZoneApp">
+      <IsAppExtension>false</IsAppExtension>
+      <BCSymbolMapName>BuildersZoneApp.bcsymbolmap</BCSymbolMapName>
+      <NoDSymUtil>true</NoDSymUtil>
+      <dSYMSourcePathExists>false</dSYMSourcePathExists>
+      <NoSymbolStrip>true</NoSymbolStrip>
+      <dSYMInfoPlistRelativePath>BuildersZoneApp.app.dSYM\Contents\Info.plist</dSYMInfoPlistRelativePath>
+      <SymbolFile>/Users/emmanuelmorrison/Documents/Development Project/Baby Projects With AI/BuildersZone/BuildersZoneApp/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/mtouch-symbols.list</SymbolFile>
+      <DSymName>BuildersZoneApp.app.dSYM</DSymName>
+      <SourceProjectPath>/Users/emmanuelmorrison/Documents/Development Project/Baby Projects With AI/BuildersZone/BuildersZoneApp</SourceProjectPath>
+      <IsXPCService></IsXPCService>
+    </_PostProcessingItem>
+  </ItemGroup>
+</Project>

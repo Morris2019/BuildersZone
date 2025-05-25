@@ -1,0 +1,6 @@
+@BuilderZoneWebAPI_HostAddress = http://localhost:5115
+
+GET {{BuilderZoneWebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
