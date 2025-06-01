@@ -17,6 +17,7 @@
 /Users/emmanuelmorrison/Documents/Development Project/Baby Projects With AI/BuildersZone/BuilderZoneWebAPI/obj/Debug/net8.0/BuilderZoneWebAPI.csproj.CoreCompileInputs.cache
 /Users/emmanuelmorrison/Documents/Development Project/Baby Projects With AI/BuildersZone/BuilderZoneWebAPI/obj/Debug/net8.0/BuilderZoneWebAPI.MvcApplicationPartsAssemblyInfo.cs
 /Users/emmanuelmorrison/Documents/Development Project/Baby Projects With AI/BuildersZone/BuilderZoneWebAPI/obj/Debug/net8.0/BuilderZoneWebAPI.MvcApplicationPartsAssemblyInfo.cache
+/Users/emmanuelmorrison/Documents/Development Project/Baby Projects With AI/BuildersZone/BuilderZoneWebAPI/obj/Debug/net8.0/BuilderZoneWebAPI.sourcelink.json
 /Users/emmanuelmorrison/Documents/Development Project/Baby Projects With AI/BuildersZone/BuilderZoneWebAPI/obj/Debug/net8.0/staticwebassets.build.json
 /Users/emmanuelmorrison/Documents/Development Project/Baby Projects With AI/BuildersZone/BuilderZoneWebAPI/obj/Debug/net8.0/staticwebassets.development.json
 /Users/emmanuelmorrison/Documents/Development Project/Baby Projects With AI/BuildersZone/BuilderZoneWebAPI/obj/Debug/net8.0/staticwebassets/msbuild.BuilderZoneWebAPI.Microsoft.AspNetCore.StaticWebAssets.props

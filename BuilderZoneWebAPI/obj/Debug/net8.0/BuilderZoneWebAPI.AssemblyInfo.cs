@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BuilderZoneWebAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3a45590d58fe4b8ef569e2cdb2f1d0ef296d37c6")]
 [assembly: System.Reflection.AssemblyProductAttribute("BuilderZoneWebAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BuilderZoneWebAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
